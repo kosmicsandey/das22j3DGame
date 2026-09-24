@@ -10,6 +10,7 @@ public class FirstPersonController : MonoBehaviour
     public float sprintSpeed = 8f;
     public float jumpHeight = 1.2f;
     public float gravity = -9.81f;
+    public float jumpGapTime = 1f;
 
     [Header("Look Settings")]
     public Transform playerCamera;
@@ -134,7 +135,7 @@ public class FirstPersonController : MonoBehaviour
 
     private IEnumerator JumpTimer()
     {
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(jumpGapTime);
         didJump = false;
     }
 
