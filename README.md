@@ -22,4 +22,5 @@ Here are some screenshots of the game:
 <img width="1790" height="968" alt="image" src="https://github.com/user-attachments/assets/9af83e94-17e2-4f0b-af89-fcda1468879b" />
 <img width="1283" height="871" alt="image" src="https://github.com/user-attachments/assets/d8ea44c9-5c1c-40b4-b20c-754f4cf77b78" />
 
+Here's a video playthrough through the Unity Editor: https://drive.google.com/file/d/1uIUKM9cJKHNhSnn2ZyibHIHiCHiHyqTc/view?usp=sharing
 Hope you enjoy!
